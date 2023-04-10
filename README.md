@@ -1,5 +1,5 @@
 
-## 👋 &ensp;  Hi, I Am Cristian
+## 👋 &ensp;  Hi, I'm Cristian
 
 - I am a Software developer interested in automation, bots and web development. 
 - I have been work from 2022 on the [Mercado Libre](https://www.mercadolibre.com.co/) as a Sr Software Developer.
