@@ -7,7 +7,7 @@
 - I was be Team Leader, Product Manager and Software's Director since 2018 to 2022. 
 
  
-## ❤️&ensp; I Love Code With
+## ❤️&ensp; I love to work with
 
 - 🐳 Docker
 - 🦄 Dotnet
@@ -31,9 +31,3 @@
   
   
 <img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="20"/> &ensp; [Tiktok](https://www.tiktok.com/@cricarba) 
-
-
-
-
-
-
